@@ -1,4 +1,4 @@
-package org.demo;
+package org.kar;
 
 public class Class {
 
